@@ -9,6 +9,10 @@ It contains two endpoints:
 
 2. /fraud/fraud-transactions/:customerId - endpoint for internal usage to detect relations between customers based on signals
 
+To start the project it's needed to install dependencies first with `yarn install` and then `yarn start` to launch a server.
+
+The server starts on the [localhost:3000](http://localhost:3000) and contains basic url exampls.
+
 
 ### Structure of the project
 
